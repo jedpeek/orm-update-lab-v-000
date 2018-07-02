@@ -40,6 +40,7 @@ class Student
     end
   end
 
+  def update
 
 
 
